@@ -12,6 +12,9 @@ To use Project Gigapixel (I'm gonna shorten it to PGP):
 
 
 **Pictures**
+
+
+
 <img width="736" height="586" alt="image" src="https://github.com/user-attachments/assets/0b6372c0-6f78-4831-9315-684ca65e2b2b" />
 <img width="669" height="588" alt="image" src="https://github.com/user-attachments/assets/439b309d-e12f-4f4c-9f2a-2c3bda27d05d" />
 <img width="633" height="521" alt="image" src="https://github.com/user-attachments/assets/08b96480-5c15-4837-8d6f-109eb9ea209b" />
