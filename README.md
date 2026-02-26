@@ -4,14 +4,14 @@ Project Gigapixel will be an advanced, large-format scanning back camera inspire
 
 To use Project Gigapixel:
 
-*1: 3d print all the CAD files needed using PLA, PETG, or ABS at 75%+ infill (Do not use any flexible or lightweight filament as it will bend or fail)
-*2: Attach everything according to the CAD (use glue, screws will wear down the print)
-*3) Wire it up with the chosen microcontroller (no wiring guide since everyone's pin layout will be different) and paste my code if you are using arduino.
-*4) Lock in your camera and lens using using the M3 screw mounts on the side
-*5) Turn on the camera and enter in the parameters of your intended panorama/wide-angle shot using the buttons - also make a new file folder if possible. Your final megapixel count will be shown on the OLED.
-*6) After 10 seconds of no user input, the system will automatically start indexing and taking images.
-*7) Save the photos taken to a PC, open Adobe Lightroom, and use the photo merge feature to select and combine them into one massive, super high res picture
-*8) Enjoy!
+*3d print all the CAD files needed using PLA, PETG, or ABS at 75%+ infill (Do not use any flexible or lightweight filament as it will bend or fail)
+Attach everything according to the CAD (use glue, screws will wear down the print)
+*Wire it up with the chosen microcontroller (no wiring guide since everyone's pin layout will be different) and paste my code if you are using arduino.
+*Lock in your camera and lens using using the M3 screw mounts on the side
+*Turn on the camera and enter in the parameters of your intended panorama/wide-angle shot using the buttons - also make a new file folder if possible. Your final megapixel count will be shown on the OLED.
+*After 10 seconds of no user input, the system will automatically start indexing and taking images.
+ Save the photos taken to a PC, open Adobe Lightroom, and use the photo merge feature to select and combine them into one massive, super high res picture
+*Enjoy!
 
 
 **Pictures**
