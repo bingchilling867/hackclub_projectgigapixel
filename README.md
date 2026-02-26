@@ -31,3 +31,7 @@ To use Project Gigapixel:
 This project was influenced by both my personal desire for a super high res camera, and also the lengths I have seen my friends and colleagues go to in order to 
 obtain such a camera, often spending hundreds or thousands. I also wanted to democratize high-res cameras; similar examples like the Hasselblad X2d 100C (100MP) are
 almost $10,000 - without the lens included. I have also personally loved giving old, cast-away tech new life; Project Gigapixel does just that. 
+
+
+**CAD**
+https://cad.onshape.com/documents/6352fbaf2e48f7f289d60f2a/w/e98715e76b0ba292e0c68f05/e/3ecc5db5b9da36c10e1d5a57?renderMode=0&uiState=699fc9bcfae5b3218b9f592c
